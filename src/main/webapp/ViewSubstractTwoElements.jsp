@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>Enter Number to Subtraction</h2>
+<h2>Enter Numbers to Subtraction</h2>
 <form action="substract"method="post">
 
 Enter your First Number<input type="text" name="FirstNumber"><br><br>
